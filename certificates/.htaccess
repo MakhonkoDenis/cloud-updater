@@ -1,0 +1,4 @@
+<FilesMatch ".(crt)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>

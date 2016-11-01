@@ -1,0 +1,151 @@
+{
+	"repositories":
+	[{
+		"project_name": "cherryframework4",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/framework/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-mega-menu",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-data-manager",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-shortcodes",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-simple-slider",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-team",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-white-label",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-testimonials",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-style-switcher",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-social",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-sidebar-manager",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-shortcodes-templater",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-services",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-rank",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-portfolio",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-grid",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-charts",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "cherry-blog-layouts",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "monstroid-dashboard",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "motopress-cherryframework4",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/free-plugins/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	},
+
+	{
+		"project_name": "monstroid",
+		"path": "/var/www/html/cloud.cherryframework.com/downloads/temp/",
+		"branch": "master",
+		"type_archive": ["zip"]
+	}
+
+	]
+}
